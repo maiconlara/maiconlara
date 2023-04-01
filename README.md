@@ -3,7 +3,7 @@
 <h4>Estudante de Análise e Desenvolvimento de Sistemas na UFPR</h4>
  
 
-- Atualmente Estou no quarto período da faculdade.
+- Atualmente estou no quarto período da faculdade.
 - Estou em busca de uma vaga de estágio ou junior.
 
 <div> 
