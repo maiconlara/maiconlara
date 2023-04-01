@@ -14,5 +14,5 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
- <img src="https://skillicons.dev/icons?i=js,html,css,php,java,c,mysql,postgres" unselectable="on"/>
+ <img src="https://skillicons.dev/icons?i=js,html,css,php,java,c,mysql,postgres" disabled"/>
 
