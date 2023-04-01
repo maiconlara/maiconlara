@@ -14,4 +14,5 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,mysql,postgres)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=js,html,css,php,java,mysql,postgres" />
+
