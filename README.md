@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou Maicon Lara</h1>
 
 <h4>Estudante de Análise e Desenvolvimento de Sistemas na UFPR</h4>
-- Atualmente Estou no quarto período da faculdade.
+ 
 
+- Atualmente Estou no quarto período da faculdade.
 - Estou em busca de uma vaga de estágio ou junior.
 
 <div> 
