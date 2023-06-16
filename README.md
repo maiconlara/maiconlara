@@ -4,7 +4,7 @@
  
 
 - Atualmente estou no quarto período da faculdade.
-- Estou em busca de uma vaga de estágio ou junior.
+- Atuo como Desenvolvedor Front-end Júnior na empresa Adam Robo.
 
 <div> 
  
