@@ -14,6 +14,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href=https://github.com/maiconlara><img src="https://skillicons.dev/icons?i=js,html,css,php,java,c,mysql,postgres""/> </a>
+<a href=https://github.com/maiconlara><img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,php,java,c,mysql,postgres""/> </a>
  
 
