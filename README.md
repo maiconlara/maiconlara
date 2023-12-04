@@ -3,7 +3,7 @@
 <h4>Student of Systems Analysis and Development in Universidade Federal do Paraná</h4>
  
 
-- Currently in the fifth period of college.
+- Currently in the sixth period of college.
 - Working as a Front-end developer at Adam Robo.
 
 <div > 
