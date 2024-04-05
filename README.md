@@ -1,6 +1,6 @@
 <h1 align="center">Hi, i'm Maicon Lara</h1>
 <p align="center">You can find me on</p>
-<p align="center"><a href = "mailto:maiconlaracontato@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F2F2F2" target="_blank"></a></a>
+<p align="center"><a href = "mailto:maiconluan.lara@yahoo.com.br"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F2F2F2" target="_blank"></a></a>
 <a href="https://linkedin.com/in/maiconlara"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://maicon.vercel.app"><img src="https://img.shields.io/badge/website-000000?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 <img src="https://img.shields.io/badge/devmaico-000000?logo=discord&style=for-the-badge&logoColor=F2F2F2"/></p>
