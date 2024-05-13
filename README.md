@@ -46,6 +46,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconlara&hide=css&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconlara&hide=css,html,blade&layout=compact&theme=vision-friendly-dark"/>
 
 </p>
