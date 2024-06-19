@@ -7,9 +7,9 @@
 
 ## **About me:**
 
-* 22 years old
+* 23 years old
 * Front-end developer
-* Working at Adam Robo
+* Working at BeLogic
 * 2 years since I started programming
 
 ## **Skills:**
