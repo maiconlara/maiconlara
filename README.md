@@ -15,11 +15,12 @@
 ## **Skills:**
 
 <p align="left">
+<img src="https://img.shields.io/badge/next.js-000000?logo=Next.js&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-000000?logo=react&style=for-the-badge&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/react%20native-000000?logo=react&style=for-the-badge&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-000000?logo=typescript&style=for-the-badge&logoColor=087ece"/>
 <img src="https://img.shields.io/badge/javascript-000000?logo=javascript&style=for-the-badge&logoColor=23F7DF1E"/>
-<img src="https://img.shields.io/badge/next.js-000000?logo=Next.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/prismic-000000?logo=prismic&style=for-the-badge&logoColor=F2F2F2%22"/>
 <img src="https://img.shields.io/badge/vercel-000000?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-000000?logo=node.js&style=for-the-badge&logoColor=6da55f"/>
 <img src="https://img.shields.io/badge/github-000000?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
