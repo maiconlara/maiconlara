@@ -7,10 +7,10 @@
 
 ## **About me:**
 
-* 23 years old
-* Front-end developer
-* Working at BeLogic
-* 2 years since I started programming
+* 24 years old
+* Full Stack Developer - Frontend Heavy
+* Working at Analítica
+* 3 years since I started programming
 
 ## **Skills:**
 
