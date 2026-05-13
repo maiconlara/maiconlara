@@ -9,7 +9,7 @@
 
 * 24 years old
 * Full Stack Developer - Frontend Heavy
-* Working in personal projects
+* Working at stays.net
 * 4 years since I started programming
 
 ## **Skills:**
@@ -38,7 +38,3 @@
 <img src="https://img.shields.io/badge/mysql-000000?logo=mysql&style=for-the-badge&logoColor=00618a"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconlara&hide=css,html,blade&layout=compact&theme=vision-friendly-dark"/>
-
-</p>
